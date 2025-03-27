@@ -2,7 +2,8 @@ import React, { useState } from "react";
 import Configurator from "./pages/Configurator";
 import "./styles.css";
 
-const heroImage = "/src/assets/pogacar2.PNG"; // Главное изображение на главной
+const pogacarImage = "/assets/pogacar2.png";
+ // Главное изображение на главной
 
 const App = () => {
   const [started, setStarted] = useState(false);
