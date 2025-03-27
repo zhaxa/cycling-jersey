@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Configurator from "./pages/Configurator";
 import "./styles.css";
 
-const pogacarImage = "/assets/pogacar2.png";
+const heroImage = "/assets/pogacar2.png";
  // Главное изображение на главной
 
 const App = () => {
